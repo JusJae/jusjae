@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================  
 Web Developer & Content Designer 
 --------------------------------  
-I have been learning web application development for over 2 years and I have started learning, HTML, CSS, JavaScript and Python. I have thenm gone on to learn Python. I have a pssion for working on the frontend development and creating an accessible user exerperience and user interface. 
+I have been learning web application development for over 2 years and I have started learning, HTML, CSS, JavaScript and Python. I have a passion for working on frontend design and development and creating accessible user exerperiences and user interfaces. 
+
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Jus Jae’s Portfolio](http://Portfolio.jusjae.com)
 * ✉️  You can contact me at [jusjae.dev@gmail.com](mailto:jusjae.dev@gmail.com)
