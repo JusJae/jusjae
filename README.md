@@ -7,7 +7,7 @@ I have been learning web application development for over 2 years and I have sta
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Jus Jae’s Portfolio](http://Portfolio.jusjae.com)
 * ✉️  You can contact me at [jusjae.dev@gmail.com](mailto:jusjae.dev@gmail.com)
-* 🧠  I'm learning Flask and React
+* 🧠  I'm learning Django and React
 
 ### Skills  
 
