@@ -6,7 +6,7 @@ I have been learning web application development for over 2 years and I have sta
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Jus Jae’s Portfolio](http://Portfolio.jusjae.com)
-* ✉️  Send me an [email](mailto:jusjae.dev@gmail.com) me
+* ✉️  Send me an [email](mailto:jusjae.dev@gmail.com)
 * 🧠  I'm currently learning React
 
 ### Skills  
